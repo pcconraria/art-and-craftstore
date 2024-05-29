@@ -1,0 +1,32 @@
+.banner{
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(../images/pattern.jpeg);
+}
+
+.item{
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+#brushes{
+    background-color: mediumspringgreen;
+}
+
+#fraims{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
